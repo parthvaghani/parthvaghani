@@ -3,6 +3,8 @@
 Welcome to my page!
 I'm Parth, FullStack Software Engineer & Enthusiastic about open-source collaborative coding!.
 
+A seasoned Senior Fullstack Engineer with over 5 years of expertise in web and mobile application development. Specializing in frontend, I excel in technologies like NextJs, ReactJS, VueJs, and more. On the mobile front, I'm proficient in React Native CLI, Expo, Fastlane, and Firebase. Backend development is a forte with skills in Node.js, NestJs, Express.js, Firebase, AWS, and GraphQL. Database design includes PostgreSQL, MongoDB, and more. Experienced in distributed system design using Kafka, Kubernetes, and adept at deploying applications with AWS, Docker, GitLab CI/CD, Vercel, and Netlify.
+
 ## 🌟 Cool Initiatives I've Contributed At
 
 ### [Garden Room Planner](https://gardenroomplanner.com) 🏡
