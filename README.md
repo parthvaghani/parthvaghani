@@ -1,13 +1,15 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Parth.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24"/> Hey! I'm Parth.</h1>
 
 Welcome to my page!
-I'm Parth, FullStack Software Engineer.
+I'm Parth, FullStack Software Engineer & Enthusiastic about open-source collaborative coding!.
 
 ## 🌟 Cool Initiatives I've Contributed At
 
-### [Garden Room Planner](https://gardenroomplanner.com) 
+### [Garden Room Planner](https://gardenroomplanner.com) 🏡
 
-### [Coinscrum](https://coinscrum.com)
+### [Coinscrum](https://coinscrum.com) 🟡
+
+### [Hollo](https://www.hollo.hk) 🌈
 
 ## Things I code with
 
@@ -59,7 +61,7 @@ Feel free to reach out for collaboration, discussion, or just to say hi!
 [![Twitter](https://img.shields.io/badge/Twitter-%40parthdev-green)](https://twitter.com/parth_vaghani)
 [![Email](https://img.shields.io/badge/Email-send%20a%20message-red)](mailto:vaghani98@gmail.com)
 
-Let's build something useful & awesome together! 🚀
+Let's build something awesome but useful together! 🚀
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthvaghani&show_icons=true&locale=en&layout=compact" alt="parthvaghani" /></p>
 
