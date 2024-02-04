@@ -7,7 +7,7 @@ A seasoned Senior Fullstack Engineer with over 5 years of expertise in web and m
 
 ## 🌟 Cool Initiatives I've Contributed At
 
-### [Garden Room Planner](https://gardenroomplanner.com) 🏡
+### [Garden Room Planner](https://gardenroomplanner.com) 🏡 👑
 
 ### [Coinscrum](https://coinscrum.com) 🟡
 
