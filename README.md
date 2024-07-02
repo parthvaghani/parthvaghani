@@ -11,8 +11,6 @@ A seasoned Senior Fullstack Engineer with over 5 years of expertise in web and m
 
 ### [Coinscrum](https://coinscrum.com) 🟡
 
-### [Hollo](https://www.hollo.hk) 🌈
-
 ## Things I code with
 
   <p>
