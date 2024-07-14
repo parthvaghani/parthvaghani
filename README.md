@@ -1,4 +1,5 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=parthvaghani.parthvaghani)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=parthvaghani/parthvaghani" alt="ParthVaghani">    
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24"/> Hey! I'm Parth.</h1>
 
