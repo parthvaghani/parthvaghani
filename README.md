@@ -1,3 +1,5 @@
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=parthvaghani.parthvaghani)
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24"/> Hey! I'm Parth.</h1>
 
 Welcome to my page!
