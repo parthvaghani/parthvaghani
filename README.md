@@ -63,7 +63,6 @@ A seasoned Senior Fullstack Engineer with over 5 years of expertise in web and m
 
 Feel free to reach out for collaboration, discussion, or just to say hi!
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40parthdev-green)](https://twitter.com/parth_vaghani)
 [![Email](https://img.shields.io/badge/Email-send%20a%20message-red)](mailto:vaghani98@gmail.com)
 
 Let's build something awesome but useful together! 🚀
